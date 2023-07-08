@@ -39,3 +39,41 @@ a {
     font-weight: 600;
     padding: 15px 25px;
 }
+main{
+    padding: 50px 0px;
+}
+.main-section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 60px;
+}
+.section-content{
+    max-width: 400px;
+    margin-left: 50px;
+}
+
+.section-content h3{
+    color: #151414;
+    font-size: 40px;
+    font-weight: 700;
+    margin-bottom: 30px;
+}
+
+.section-content p{
+    color: #444343;
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+.section-content li{
+    list-style-type: none;
+    font-size: 16px;
+    padding: 5px 0px;
+
+}
+.section-content i{
+    color: #16D887;
+    font-size: 18px;
+    margin-right: 10px;
+}
